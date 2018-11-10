@@ -11,6 +11,6 @@ alternatively use [paperspace]() takes somewhat longer to setup but the video cl
 to get some initial money, go and read this [forum thread](https://forums.fast.ai/t/paperspace-referral-link/9323). 
 then click on gradient offering which provides a gradient-0 plan for $0/m
 
-select "01. Base Container Paperspace + Fast.AI 0.7.x"
-choose "Quadro P4000" machine (.52$/h)
-click "Create Notebook" (or click twice if you get some error message)
+1. select "01. Base Container Paperspace + Fast.AI 0.7.x"
+2. choose "Quadro P4000" machine (.52$/h)
+3. click "Create Notebook" (or click twice if you get some error message)
