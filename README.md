@@ -1,6 +1,6 @@
 # fast.ai course notes
 
-## lesson 1
+## lesson 1
 
 start with [lesson 1](https://course.fast.ai/lessons/lesson1.html)
 
