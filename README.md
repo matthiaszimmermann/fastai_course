@@ -33,3 +33,5 @@ do the following steps (in the browser
 1. change to tab "files" and open (double click) folder "courses"
 2. open "dl1"
 3. double click on "lesson1.ipynb" (should show the notbook that starts with "Image classification with Convolutional Neural Networks")
+
+run video and notebook in parallel (stopped at 30' https://course.fast.ai/lessons/lesson1.html)
