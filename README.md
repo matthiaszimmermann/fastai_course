@@ -65,4 +65,4 @@ epoch      trn_loss   val_loss   accuracy
 
 and get some single/double seater glider classification
 
-
+TODO continue [video](https://course.fast.ai/lessons/lesson1.html) at 30'
