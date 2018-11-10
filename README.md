@@ -25,3 +25,11 @@ open the terminal window and call the following commands:
 git pull
 conda env update
 ```
+
+### start lesson1.ipynb
+
+do the following steps (in the browser 
+
+1. change to tab "files" and open (double click) folder "courses"
+2. open "dl1"
+3. double click on "lesson1.ipynb" (should show the notbook that starts with "Image classification with Convolutional Neural Networks")
